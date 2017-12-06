@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to What will my Gpa be?
 
 You can use the [editor on GitHub](https://github.com/meltem123/whatwillmygpabe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
