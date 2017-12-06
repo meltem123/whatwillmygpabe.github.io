@@ -2,7 +2,7 @@
 
 This website inform about our project which is called 'What will my GPA be?'
 
-You can use the [editor on GitHub](https://github.com/meltem123/whatwillmygpabe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our SRS document.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [Button](text)
