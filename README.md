@@ -9,7 +9,7 @@ Our project will be used by the students of the universities to help their stude
 2. [GPS Project](http://oie.gsu.edu/files/2014/04/Advisement-GPS.pdf)
 3. [SmartGPA](http://studentlife.cs.dartmouth.edu/smartgpa.pdf)
 
-
+## Our Documents
 You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our SRS document.
 
 You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our literature document.
@@ -19,7 +19,9 @@ You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-pr
 1.Efnan Gülkanat 
 2.Sergen İspir
 3.Meltem Daşdemir
-4.Erdoğan Doğdu
+## Our Advisor
+
+Erdoğan Doğdu
 
 Thanks Erdoğan Doğdu for contributions.
 
