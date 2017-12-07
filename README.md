@@ -4,7 +4,15 @@ This website inform about our project which is called 'What will my GPA be?'
 
 Our project will be used by the students of the universities to help their students learn their understandings, their teachings, and their productivity in their institutions. Early intervention in academic life helps students to change their course of education and graduate early with better grades. Universities all over the world struggle with retention of students. Many tools and techniques are developed to help students, faculty, and administrators to cope with advising students efficiently. In this project “big data” analytics will be used to help universities to understand their students, teaching efficiency in their institutions by learning from data. We will develop a software tool which is analyzing and visualizing data from past student enrollments in classes and their grades.
 
-You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our SRS document.
+1.You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our SRS document.
+
+2.You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our literature document.
+
+# Our Team Members
+
+Efnan Gülkanat 
+Sergen İspir
+Meltem Daşdemir
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [Button](text)
@@ -24,10 +32,10 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+![Image](https://lh6.ggpht.com/MzDDJ73psbNWRNZ9da1hZECLena_E0kcTV2be6Fb-RbImjl_Vaf0eF0U5w3A7b2pZsHM=w300)
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
