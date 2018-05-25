@@ -14,7 +14,7 @@ You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-pr
 
 You can use the [this link](https://github.com/CankayaUniversity/ceng-407-408-project-what-will-my-gpa-be/wiki) to see our literature document.
 
-You can use the [this link](https://youtube.com/...) to see our video document.
+You can use the [this link](https://www.youtube.com/watch?v=B6MG4PNBENM) to see our video document.
 
 ## Our Team Members
 
